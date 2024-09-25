@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://thiqo.github.io/Yki/sitemap.Yki.gz
